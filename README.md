@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Jrkenny20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Jrkenny20/Jrkenny20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Jrkenny
+- 👀 I’m interested in web3 and coding
+- 🌱 I’m currently learning defi
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me https://x.com/Jrken_ny?t=1fShMGL3_Qxh0jGGXKW8LQ&s=09
